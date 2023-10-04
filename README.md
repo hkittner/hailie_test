@@ -8,3 +8,7 @@ Test repo for git/github lesson
 
 # Creator
 Hailie is a Masters Student in Earth Science at UCSB. She can be reached via email at [hkittner@ucsb.edu](mailto:hkittner@ucsb.edu)
+
+
+# Git Workflow 
+
