@@ -1,4 +1,4 @@
-# hailie_test
+# Hailie + Leeza Project
 Test repo for git/github lesson
 
 # Purpose
