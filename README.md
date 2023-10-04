@@ -12,3 +12,8 @@ Hailie is a Masters Student in Earth Science at UCSB. She can be reached via ema
 
 # Git Workflow 
 
+* pull from repository at the start of the work session
+* when finished, save changed files and stage them
+* commit the changes with a commit message
+* pull to make sure no changes have been made
+* push to github
