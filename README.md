@@ -1,4 +1,4 @@
-# hailie_test
+#LEEZA test not Haile test 
 Test repo for git/github lesson
 
 # Purpose
